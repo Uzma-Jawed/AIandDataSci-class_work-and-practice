@@ -17,6 +17,8 @@ This repository contains my AI and Data Science classwork + practice notebooks s
 - Seaborn
 - Statistics
 - EDA
+- Data Visualization
+- Feature Engineering
 - Machine Learning
 - Scikit-learn
 - ...and more!
